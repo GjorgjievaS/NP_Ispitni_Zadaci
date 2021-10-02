@@ -1,2 +1,2 @@
-# NP_Ispitni_Zadaci
-Reshenija za ispitni zadaci po napredno programiranje.
+# Испитни задачи по Напредно Програмирање
+
