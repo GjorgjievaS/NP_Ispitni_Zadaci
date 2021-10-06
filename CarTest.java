@@ -1,4 +1,4 @@
-package Автомобили;
+//package Автомобили;
 
 import java.util.*;
 import java.util.stream.Collectors;
