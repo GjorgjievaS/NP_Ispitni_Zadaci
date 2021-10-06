@@ -1,4 +1,4 @@
-package MinMax;
+//package MinMax;
 
 import java.util.Scanner;
 
