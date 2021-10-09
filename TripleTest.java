@@ -1,4 +1,4 @@
-package Генеричка_Тројка;
+//package Генеричка_Тројка;
 
 import java.util.*;
 import java.util.stream.Collectors;
