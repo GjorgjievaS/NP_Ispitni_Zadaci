@@ -1,4 +1,4 @@
-package Компоненти;
+//package Компоненти;
 
 import java.util.Scanner;
 import java.util.*;
