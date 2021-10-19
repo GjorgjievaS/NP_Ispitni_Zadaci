@@ -1,4 +1,4 @@
-package Ф1_Трка;
+//package Ф1_Трка;
 
 import java.io.InputStream;
 import java.io.OutputStream;
